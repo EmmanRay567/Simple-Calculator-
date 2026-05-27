@@ -1,5 +1,4 @@
-# Simple-Calculator-
-This is a simple calculator console app in python
+
 # Simple-Calculator
 
 This is a simple calculator console app built in Python.
