@@ -16,7 +16,6 @@ This program allows the user to enter two numbers and choose a math operation. T
 - Divide two numbers
 - Continue calculating with a previous result
 - Restart the calculator
-- Quit the program
 
 ## How to Run
 
